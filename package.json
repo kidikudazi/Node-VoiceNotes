@@ -1,0 +1,15 @@
+{
+  "name": "voice",
+  "version": "1.0.0",
+  "description": "A voice to text app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Francis Adeboye",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
